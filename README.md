@@ -219,31 +219,6 @@ The repository includes:
 * Matplotlib
 * SciPy
 
----
-
-# Repository Structure
-
-```bash
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── scripts/
-│   ├── scoring_pipeline.py
-│   ├── plotting.py
-│   └── clustering.py
-│
-├── figures/
-│   ├── heatmaps/
-│   ├── barplots/
-│   └── scatterplots/
-│
-├── results/
-│   ├── score_tables/
-│   └── phenotype_classification/
-│
-└── README.md
-```
 
 ---
 
